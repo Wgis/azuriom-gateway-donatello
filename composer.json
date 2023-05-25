@@ -1,0 +1,11 @@
+{
+    "name": "azuriom/donatello",
+    "type": "azuriom-plugin",
+    "description": "Donatello для магазина",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Azuriom\\Plugin\\Donatello\\": "src/"
+        }
+    }
+}
